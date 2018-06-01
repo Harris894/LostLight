@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 6ef743104444075409678e14754c016c
+timeCreated: 1514912685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cloak_Plane_001
+    100002: Cube_000
+    100004: Cube_004
+    100006: Hood_Plane_002
+    100008: //RootNode
+    100010: Landscape
+    100012: MainBody_Plane
+    100014: TreeBranches_1
+    100016: TreeBranches_2
+    100018: TreeBranchless_1
+    100020: TreeBranchless_2
+    400000: Cloak_Plane_001
+    400002: Cube_000
+    400004: Cube_004
+    400006: Hood_Plane_002
+    400008: //RootNode
+    400010: Landscape
+    400012: MainBody_Plane
+    400014: TreeBranches_1
+    400016: TreeBranches_2
+    400018: TreeBranchless_1
+    400020: TreeBranchless_2
+    2300000: Cloak_Plane_001
+    2300002: Cube_000
+    2300004: Cube_004
+    2300006: Hood_Plane_002
+    2300008: Landscape
+    2300010: MainBody_Plane
+    2300012: TreeBranches_1
+    2300014: TreeBranches_2
+    2300016: TreeBranchless_1
+    2300018: TreeBranchless_2
+    3300000: Cloak_Plane_001
+    3300002: Cube_000
+    3300004: Cube_004
+    3300006: Hood_Plane_002
+    3300008: Landscape
+    3300010: MainBody_Plane
+    3300012: TreeBranches_1
+    3300014: TreeBranches_2
+    3300016: TreeBranchless_1
+    3300018: TreeBranchless_2
+    4300000: Hood_Plane_002
+    4300002: MainBody_Plane
+    4300004: Cloak_Plane_001
+    4300006: Cube_000
+    4300008: Cube_004
+    4300010: TreeBranchless_2
+    4300012: TreeBranches_2
+    4300014: TreeBranchless_1
+    4300016: TreeBranches_1
+    4300018: Landscape
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
